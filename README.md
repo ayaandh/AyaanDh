@@ -1,55 +1,24 @@
-# Hi, I'm Ayaan 👋
-
-### Software Developer • C++ • Python • Open Source
-
-<p>
-  <a href="https://github.com/ayaandh">
-    <img src="https://img.shields.io/github/followers/ayaandh?style=flat-square&logo=github&label=Followers"/>
-  </a>
-  <a href="https://ayaan.is-a.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=safari"/>
-  </a>
-  <a href="mailto:mr.dhalait@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 💻 Software Developer
-- 🚀 Building open-source projects
-- 🌱 Currently learning **Modern C++**
-- 🛠 I also work with **Python** and **JavaScript**
-
----
-
-## 🧰 Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=cpp,py,js,html,css,flask,firebase,git,github,vscode,clion)
-
----
-
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-<img width="49%" src="asset/base.svg"/>
-<img width="49%" src="asset/languages.svg"/>
-<img width="49%" src="asset/activity.svg"/>
-<img width="49%" src="asset/achievements.svg"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayaandh&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=ayaandh&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaandh&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 📈 Profile Metrics
 
-- 🕹 **DhEngine**
-- 📦 **pplayer**
-- 🔬 **pyKp130**
-- 💬 **Mittens**
-- ⏰ **TimeToGo**
+<p align="center">
+  <img width="49%" src="asset/base.svg"/>
+  <img width="49%" src="asset/activity.svg"/>
+</p>
 
----
-
-> *"Code. Learn. Build."*
+<p align="center">
+  <img width="49%" src="asset/languages.svg"/>
+  <img width="49%" src="asset/achievements.svg"/>
+</p>

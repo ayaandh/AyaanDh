@@ -1,59 +1,79 @@
-<div align="center">
+# Ayaan Dhalait
 
-# 👋 Hi, I'm Ayaan
+Software Developer  
+C++ • Python • JavaScript • Open Source
 
-### Software Developer • C++ • Python • Open Source
-
-Building fast, modern software and learning something new every day.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ayaan.is--a.dev-black?style=for-the-badge&logo=safari)](https://ayaan.is-a.dev)
-[![GitHub](https://img.shields.io/github/followers/ayaandh?style=for-the-badge&logo=github)](https://github.com/ayaandh)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mr.dhalait@gmail.com)
-
-</div>
+[Portfolio](https://ayaan.is-a.dev) · [GitHub](https://github.com/ayaandh) · [Email](mailto:mr.dhalait@gmail.com)
 
 ---
 
-## 🚀 About Me
+## About
 
-```cpp
-Ayaan ayaan;
+Software developer focused on building useful applications, developer tools, and open-source projects.
 
-ayaan.location = "London, UK";
-ayaan.learning = "Modern C++";
-ayaan.interests = {
-    "Software Engineering",
-    "Open Source",
-    "Web Development",
-    "Developer Tools"
-};
-```
+Currently learning modern C++ and improving my skills in software engineering, algorithms, and system design.
+
+Based in London, UK.
 
 ---
 
-## 💻 Tech Stack
+## Skills
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,py,js,html,css"/>
-</p>
+C++  
+Python  
+JavaScript  
+HTML  
+CSS  
+
+### Frameworks & Libraries
+
+Flask  
+Firebase  
+Pygame  
+Three.js  
+GSAP  
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,clion,linux"/>
-</p>
-
-### Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,firebase"/>
-</p>
+Git  
+GitHub  
+VS Code  
+CLion  
+Linux  
 
 ---
 
-## 📊 GitHub Metrics
+## Projects
+
+### DhEngine
+
+A lightweight game engine built with Python and Pygame.
+
+### pplayer
+
+A Python library for multimedia and game development.
+
+### pyKp130
+
+A virtual science laboratory application.
+
+### Mittens
+
+A messaging application.
+
+### TimeToGo
+
+A command-line productivity tool.
+
+### Dhctl
+
+A developer command-line utility.
+
+---
+
+## GitHub Statistics
 
 <p align="center">
 <img width="49%" src="asset/base.svg"/>
@@ -62,37 +82,27 @@ ayaan.interests = {
 
 <p align="center">
 <img width="49%" src="asset/languages.svg"/>
-<img width="49%" src="asset/achievements.svg"/>
+<img width="49%" src="asset/isocalendar.svg"/>
 </p>
 
 ---
 
-## 📦 Featured Projects
+## Currently
 
-| Project | Description |
-|---------|-------------|
-| **DhEngine** | Lightweight Python game engine |
-| **pplayer** | Multimedia & game development library |
-| **pyKp130** | Virtual science laboratory |
-| **Mittens** | Messaging application |
-| **TimeToGo** | Productivity CLI |
-| **Dhctl** | Developer command-line toolkit |
+Learning:
+- Modern C++
+- Data Structures and Algorithms
+- Software Architecture
 
----
-
-## 🎯 2026 Goals
-
-- 🚀 Become highly proficient in Modern C++
-- ⭐ Build more open-source projects
-- 📚 Improve algorithms & data structures
-- ⚡ Write clean, maintainable code
+Building:
+- Open-source projects
+- Developer tools
+- Applications
 
 ---
 
-<div align="center">
+## Contact
 
-### Thanks for stopping by 👋
-
-*"Code. Learn. Build."*
-
-</div>
+Portfolio: https://ayaan.is-a.dev  
+GitHub: https://github.com/ayaandh  
+Email: mr.dhalait@gmail.com

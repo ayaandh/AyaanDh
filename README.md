@@ -9,67 +9,34 @@ C++ • Python • JavaScript • Open Source
 
 ## About
 
-Software developer focused on building useful applications, developer tools, and open-source projects.
+I am a software developer focused on building applications, developer tools, and open-source projects.
 
 Currently learning modern C++ and improving my skills in software engineering, algorithms, and system design.
 
-Based in London, UK.
+Location: London, UK
 
 ---
 
 ## Skills
 
-### Languages
-
-C++  
-Python  
-JavaScript  
-HTML  
-CSS  
-
-### Frameworks & Libraries
-
-Flask  
-Firebase  
-Pygame  
-Three.js  
-GSAP  
-
-### Tools
-
-Git  
-GitHub  
-VS Code  
-CLion  
-Linux  
+| Category | Technologies |
+|---|---|
+| Languages | C++, Python, JavaScript, HTML, CSS |
+| Frameworks & Libraries | Flask, Firebase, Pygame, Three.js, GSAP |
+| Tools | Git, GitHub, VS Code, CLion, Linux |
 
 ---
 
 ## Projects
 
-### DhEngine
-
-A lightweight game engine built with Python and Pygame.
-
-### pplayer
-
-A Python library for multimedia and game development.
-
-### pyKp130
-
-A virtual science laboratory application.
-
-### Mittens
-
-A messaging application.
-
-### TimeToGo
-
-A command-line productivity tool.
-
-### Dhctl
-
-A developer command-line utility.
+| Project | Description | Technologies |
+|---|---|---|
+| 🎮 DhEngine | Lightweight game engine | Python, Pygame |
+| 📦 pplayer | Multimedia development library | Python |
+| 🔬 pyKp130 | Virtual science laboratory | Python |
+| 💬 Mittens | Messaging application | Python, Web |
+| ⏱ TimeToGo | Productivity CLI tool | Python |
+| ⚙ Dhctl | Developer command-line toolkit | Python |
 
 ---
 
@@ -87,22 +54,20 @@ A developer command-line utility.
 
 ---
 
-## Currently
+## Currently Learning
 
-Learning:
-- Modern C++
-- Data Structures and Algorithms
-- Software Architecture
-
-Building:
-- Open-source projects
-- Developer tools
-- Applications
+| Area | Focus |
+|---|---|
+| C++ | Modern C++, memory management, performance |
+| Algorithms | Data structures and problem solving |
+| Software Engineering | Architecture and scalable applications |
 
 ---
 
 ## Contact
 
-Portfolio: https://ayaan.is-a.dev  
-GitHub: https://github.com/ayaandh  
-Email: mr.dhalait@gmail.com
+| Platform | Link |
+|---|---|
+| Website | https://ayaan.is-a.dev |
+| GitHub | https://github.com/ayaandh |
+| Email | mr.dhalait@gmail.com |

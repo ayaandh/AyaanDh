@@ -3,7 +3,7 @@
 Software Developer  
 C++ • Python • JavaScript • Open Source
 
-[Portfolio](https://ayaan.is-a.dev) · [GitHub](https://github.com/ayaandh) · [Email](mailto:mr.dhalait@gmail.com)
+[Portfolio](https://ayaan.is-a.dev) · [GitHub](https://github.com/ayaandh) · [Email](mailto:ayaan@ayaan.is-a.dev)
 
 ---
 
@@ -38,19 +38,6 @@ Location: London, UK
 | ⏱ TimeToGo | Productivity CLI tool | Python |
 | ⚙ Dhctl | Developer command-line toolkit | Python |
 
----
-
-## GitHub Statistics
-
-<p align="center">
-<img width="49%" src="asset/base.svg"/>
-<img width="49%" src="asset/activity.svg"/>
-</p>
-
-<p align="center">
-<img width="49%" src="asset/languages.svg"/>
-<img width="49%" src="asset/isocalendar.svg"/>
-</p>
 
 ---
 
@@ -70,4 +57,4 @@ Location: London, UK
 |---|---|
 | Website | https://ayaan.is-a.dev |
 | GitHub | https://github.com/ayaandh |
-| Email | mr.dhalait@gmail.com |
+| Email | ayaan@ayaan.is-a.dev |

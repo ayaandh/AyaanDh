@@ -51,10 +51,4 @@ Location: London, UK
 
 ---
 
-## Contact
-
-| Platform | Link |
-|---|---|
-| Website | https://ayaan.is-a.dev |
-| GitHub | https://github.com/ayaandh |
-| Email | ayaan@ayaan.is-a.dev |
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ayaandh&show_icons=true&include_all_commits=true&theme=calm)](https://github-stats-extended.vercel.app/api?username=ayaandh&show_icons=true&include_all_commits=true&theme=calm)

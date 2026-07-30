@@ -50,7 +50,17 @@ Location: London, UK
 | Software Engineering | Architecture and scalable applications |
 
 ---
+<table>
+<tr>
+<td width="50%">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ayaandh&show_icons=true&include_all_commits=true&theme=calm)](https://github-stats-extended.vercel.app/api?username=ayaandh&show_icons=true&include_all_commits=true&theme=calm)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ayaandh&langs_count=12&theme=calm_pink)](https://github-stats-extended.vercel.app/api/top-langs?username=ayaandh&langs_count=12&theme=calm_pink)
+</td>
+<td width="50%">
+
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=ayaandh&langs_count=12&theme=calm_pink)](https://github-stats-extended.vercel.app/api/top-langs?username=ayaandh&langs_count=12&theme=calm_pink)
+
+</td>
+</tr>
+</table>

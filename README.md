@@ -54,7 +54,7 @@ Location: London, UK
 <tr>
 <td width="50%">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ayaandh&show_icons=true&include_all_commits=true&theme=calm)](https://github-stats-extended.vercel.app/api?username=ayaandh&show_icons=true&include_all_commits=true&theme=calm)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ayaandh&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&include_all_commits=true&theme=calm)](https://github-stats-extended.vercel.app/api?username=ayaandh&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&include_all_commits=true&theme=calm)
 
 </td>
 <td width="50%">

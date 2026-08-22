@@ -1,4 +1,4 @@
-Learing C++ | Aspiring Software Developer | Year 10 Student
+Learing C++ | Aspiring Software Developer and Computer Scientist
 
 Fun Fact: I like CS snd math
 
